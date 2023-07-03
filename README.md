@@ -36,6 +36,7 @@
 ### Instalación
 <p id="instalacion">Seguir los siguientes pasos para echar a andar la demo.</p>
 TODO
+
 ## Forma de uso
 <p id="forma-de-uso">Para correr el proyecto en un servidor local seguir los siguientes pasos:</p>
 TODO
