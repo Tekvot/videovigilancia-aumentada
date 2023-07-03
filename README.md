@@ -44,6 +44,7 @@ TODO
 
 ## Roadmap
 <p id="roadmap">El roadmap del proyecto se presenta a continuación.</p>
+
 - [ ] Desarrollo del primer demo usando cloud computing.
 - [ ] Desarrollo del demo usando edge computing.
 - [ ] ...
