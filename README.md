@@ -28,6 +28,7 @@
 
 ### Prerequisitos
 <p id="prerequisitos">Este proyecto es un aplicativo web que usa las siguinetes tecnologías:</p>
+
 * **Node.js** para back-end, 
 * **MongoDB** para las bases de datos.
 * **Pytorch** para el modelo de reconocimiento de poses.
