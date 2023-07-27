@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.3] 2023-07-27
+### Add
+- Se agregó el código en python para realizar las predicciones de rostro, pose y acciones de violencia de robo a mano armada.
+
 ## [1.0.2] 2023-07-11
 ### Add
 - Se agrego el servidor creado en nodeJs para comunicarse con el app en android y con el servidor de las camaras con IA
